@@ -1,2 +1,1 @@
-# PropCourse-Henry
-Este es un repositorio de prueba del modulo dos del curso de Henry
+Este proyecto es una prubea de como crear un repositorio y clonarlo desde github a mi computadora.
